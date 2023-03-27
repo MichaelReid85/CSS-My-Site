@@ -40,7 +40,7 @@ a {
 }
 
 a:hover {
-  color: EAF6F6;
+  color: #EAF6F6;
 }
 
 .top-container {
@@ -116,9 +116,9 @@ float: right;
   word-spacing: 4rem;
 }
 
-.footer-link:hover {
+/* .footer-link:hover {
   color: #EAF6F6;
-}
+} */
 
 .copyright {
   color: #EAF6F6;
